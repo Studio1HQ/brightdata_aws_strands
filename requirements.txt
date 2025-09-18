@@ -1,0 +1,6 @@
+# Core Dependencies
+
+strands-agents>=1.8.0
+brightdata-sdk>=1.1.3
+anthropic>=0.18.0
+python-dotenv>=1.0.0
